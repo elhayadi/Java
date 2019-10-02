@@ -15,9 +15,9 @@ public class Animal {
 		}
 	 
 
-	public Animal(int age, double poid) {
+	public Animal(int age, String name) {
 		this.age = age;
-		this.poid = poid;
+		this.name = name;
 	}
 
 

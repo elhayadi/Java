@@ -7,7 +7,7 @@ public class Chat extends Animal{
 		}
 	   
 	   public String Parler() {
-	   	   return("je suis un Chat");
+	   	   return("je suis un Cha muaoi");
 	      }
 	    
 
